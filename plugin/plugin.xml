@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>se.dashnotes.httpbridge.HTTPBridgePlugin</class>
+    <name>HTTPBridge</name>
+    <description>HTTP bridge for integrating openfire with web applications</description>
+    <author>Jonas Tehler</author>
+    <version>0.0.1</version>
+    <date>08/05/2009</date>
+    <minServerVersion>3.4.0</minServerVersion>
+    <licenseType>gpl</licenseType>
+    <parentPlugin>kraken</parentPlugin>
+</plugin>
