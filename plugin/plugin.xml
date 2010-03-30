@@ -8,6 +8,6 @@
     <version>0.0.1</version>
     <date>08/05/2009</date>
     <minServerVersion>3.4.0</minServerVersion>
-    <licenseType>gpl</licenseType>
+    <licenseType>internal</licenseType>
     <parentPlugin>kraken</parentPlugin>
 </plugin>
